@@ -81,10 +81,14 @@ while num < 5:
 # for i in range(0,5):
 #     print((i+1) ** 2)
 
-n = 5
-for i in range(1,11):
-    print(n, "*", i, "=", n * i)
-    print(f'{n} * {i} = {n * i}')
+# n = 5
+# for i in range(1,11):
+#     print(n, "*", i, "=", n * i)
+#     print(f'{n} * {i} = {n * i}')
+
+
+
+
 
 
 
